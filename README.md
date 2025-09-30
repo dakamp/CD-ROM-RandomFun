@@ -1,0 +1,1 @@
+These files were created in Oct 2013 to have some fun with an old CD-Rom Tower. The script (zufallcd.sh) opens and closes the drive trays randomly. Looks like a piece of art, when running. Is it useful? No, not at all. But it's entertaining.
